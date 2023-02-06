@@ -1,7 +1,7 @@
 # Testing BERT and GPT
 AI ethics principles refer to the guidelines and values that should be considered when designing, developing, and deploying AI systems. There are several key AI ethics principles that are widely recognized and discussed in the field. They are:
 
-##Fairness
+## Fairness
 Ensuring that AI systems do not discriminate against certain groups of people, and that they provide equal opportunities and benefits to all.
 
 ## Explainability
